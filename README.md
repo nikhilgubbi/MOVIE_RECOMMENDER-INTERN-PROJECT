@@ -1,4 +1,4 @@
-# Content-Based-Movie-Recommender-System-with-Sentiment-Analysis
+# Movie-Recommender-System-with-Sentiment-Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
